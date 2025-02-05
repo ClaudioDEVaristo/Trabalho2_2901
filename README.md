@@ -17,7 +17,7 @@ Este projeto implementa o controle de três LEDs utilizando um temporizador e um
 - Três resistores (330Ω)
 - Ambiente de desenvolvimento configurado para o Pico (SDK do Raspberry Pi) e simulador Wokwi integrado ao VScode
 
-## Conexões dos LEDs
+## Conexões dos LEDs e do Botão
 
 | Cor do LED | Pino do Pico|
 |------------|-------------|
